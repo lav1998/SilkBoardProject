@@ -16,7 +16,7 @@
         <ImageView
             android:id="@+id/logo_image_view"
             android:layout_width="137dp"
-            android:layout_height="141dp"
+            android:layout_height="132dp"
             android:layout_marginTop="45dp"
             android:src="@drawable/output" />
 
@@ -51,16 +51,16 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="45dp"
             android:gravity="center_horizontal"
-            android:inputType="textPassword"/>
+            android:inputType="textPassword" />
 
         <Button
             android:id="@+id/login_button"
             android:layout_width="200dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="25dp"
+            android:background="@drawable/rounded_button"
             android:text="LOG IN"
-            android:textColor="@android:color/white"
-            android:background="@drawable/rounded_button" />
+            android:textColor="@android:color/white" />
 
 
         <TextView
@@ -68,7 +68,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:text="Not registered?"
+            android:text="Not registered ? Sign up"
             android:textSize="17sp" />
 
     </LinearLayout>
