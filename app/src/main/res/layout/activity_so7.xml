@@ -35,19 +35,19 @@
 
     <EditText
         android:id="@+id/editText5"
-        android:layout_width="332dp"
-        android:layout_height="wrap_content"
+        android:layout_width="319dp"
+        android:layout_height="101dp"
         android:layout_marginTop="8dp"
+        android:gravity="top|left"
         android:inputType="textMultiLine"
         android:lines="8"
-        android:minLines="6"
-        android:gravity="top|left"
         android:maxLines="10"
+        android:minLines="6"
         android:scrollbars="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.753"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.13"
-        />
+        app:layout_constraintVertical_bias="0.082" />
 </android.support.constraint.ConstraintLayout>
