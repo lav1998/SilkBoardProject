@@ -17,7 +17,12 @@
             </intent-filter>
         </activity>
         <activity android:name=".SO1" />
-        <activity android:name=".SO2"></activity>
+        <activity android:name=".SO2" />
+        <activity android:name=".SO3" />
+        <activity android:name=".SO4" />
+        <activity android:name=".SO5" />
+        <activity android:name=".SO6" />
+        <activity android:name=".SO7"></activity>
     </application>
 
 </manifest>
