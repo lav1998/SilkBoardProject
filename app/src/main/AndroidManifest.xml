@@ -22,7 +22,8 @@
         <activity android:name=".SO4" />
         <activity android:name=".SO5" />
         <activity android:name=".SO6" />
-        <activity android:name=".SO7"></activity>
+        <activity android:name=".SO7" />
+        <activity android:name=".SO0"></activity>
     </application>
 
 </manifest>

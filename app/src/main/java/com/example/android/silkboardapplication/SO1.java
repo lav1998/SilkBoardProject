@@ -12,7 +12,6 @@ public class SO1 extends AppCompatActivity {
         Intent intent = new Intent(getApplicationContext(),SO2.class);
         startActivity(intent);
     }
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
